@@ -20,6 +20,6 @@ how to fix that issues for this points
 - tracking OK
 - issues code   
 version control system < git >
-===========================================================================
+=====================================================================
 
 
