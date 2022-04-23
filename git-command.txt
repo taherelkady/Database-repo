@@ -1,0 +1,25 @@
+# how to handle the project by command below
+
+===> Create repository (git) to create repository to host the files project that we need to manage and track 
+===> track changes     git add + file name >>> to track and monitor the files in the projects
+===> check status      git status  >>>> to check the status files 
+===> backup            git commit -m "message"  
+===> show backup history     git log  >>>> to check about the backup 
+===> push to github        >>> git push
+===> get change from git hub   >>> git pull
+
+to link your git with git hub to be able create backup then  you have to run this two commands on your device
+
+ # git config --global user.name "taher elkady"
+ # git config --global user.email bluebelltaher72@gmail.com
+
+=============================================================================
+how to fix that issues for this points 
+- versioning OK
+- team OK  >>>> link git from your device to github server to make your team wok with same files
+- tracking OK
+- issues code   
+version control system < git >
+===========================================================================
+
+
